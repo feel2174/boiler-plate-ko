@@ -5,7 +5,9 @@ John Ahn 님의 노드 리액트 기초강의(34강)의 샘플 코드입니다.
 서버사이드의 Node.js와 클라이언트 사이드의 React.js로 제작되었습니다.
 
 
-1.dev.js file을 config 폴더 안에 생성해주세요.
+
+
+1. dev.js file을 config 폴더 안에 생성해주세요.
 
 2. mongoDB 정보를 dev.js file안에다가 넣어주세요.
 
